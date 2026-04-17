@@ -8,7 +8,7 @@ Algoritmo "NotaEscolar"
 // Apresentar junto das mensagens o valor da média do aluno
 // para qualquer condição
 // Autor(a)    : Henry Cardoso
-// Data atual  : 17/04/2026
+// Data atual  : 13/04/2026
 Var
    // Seção de Declarações das variáveis
    nota1, nota2, nota3, nota4:real
